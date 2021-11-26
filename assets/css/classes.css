@@ -1,0 +1,26 @@
+
+.main-bg {
+
+  background-image: url('/assets/images/background.svg');
+  background-position: center center;
+  color: var(--white)
+
+}
+
+.white-bg {
+  color: var(--primary-color);
+  background: var(--white)
+}
+
+.main-content {
+  min-height: 100vh;
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: var(--gap);
+}
+
+.section {
+  min-height: 100vh;
+}
+
+
